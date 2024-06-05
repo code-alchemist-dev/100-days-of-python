@@ -10,5 +10,3 @@ if number % 2 == 0:
 else:
     # If the remainder is not 0, the number is odd
     print(f'{number} is an odd number')
-
-    
